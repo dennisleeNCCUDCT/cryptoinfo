@@ -80,9 +80,6 @@ function CoinPage() {
               marketCap={coins.market_cap}
               priceChange={ */}
         </div>
-        <p className="text-muted">
-          Starting from 2022, based in taiwan, checking cryto platform platform.
-        </p>
       </div>
     );
   } else {

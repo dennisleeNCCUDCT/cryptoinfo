@@ -73,7 +73,7 @@ function Home() {
           );
         })}
       </div>
-      <p className="text-muted">
+      <p className="text-muted text-white">
         Starting from 2022, based in taiwan, checking cryto platform platform.
       </p>
     </div>
